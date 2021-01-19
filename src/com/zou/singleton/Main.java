@@ -8,55 +8,6 @@ package com.zou.singleton;
  */
 public class Main {
     public static void main(String[] args) {
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         //Singleton01 singleton01 = Singleton01.getInstance();
 
     }
