@@ -1,7 +1,7 @@
 package com.zou.singleton;
 
 /**
- * @ClassName Main
+ * @ClassName Test
  * @Description TODO
  * @Author zou
  * @Date 2020/12/14 22:10

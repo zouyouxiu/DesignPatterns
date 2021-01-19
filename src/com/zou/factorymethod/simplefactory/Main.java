@@ -1,7 +1,7 @@
 package com.zou.factorymethod.simplefactory;
 
 /**
- * @ClassName Main
+ * @ClassName Test
  * @Description TODO
  * @Author zou
  * @Date 2021/1/11 22:53
